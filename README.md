@@ -12,10 +12,3 @@
 - Update pixel locations and the screenshot region in RunEpisodes.py
 - RunEpisodes.py will also create a stat file for you while it runs episodes. 
 
-## Need more help?
-- YouTube <a href="https://www.youtube.com/claritycoders" target="_blank">Clarity Coders</a>
-- Chat with me! <a href="https://discord.gg/cAWW5qq" target="_blank">Discord</a>
-
-<a href="https://discord.gg/cAWW5qq"><img
-                alt="Discord"
-                src="https://img.shields.io/discord/709518323720912956"></a>
